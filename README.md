@@ -1,2 +1,2 @@
-# Projetos-Data-Science-na-pr-tica
+# Projetos-Data-Science-na-prática
 Repositório destinado aos projetos  
