@@ -15,9 +15,9 @@
 
 
 ## Projetos:
-Veja os tutoriais publicados do abaixo:
+Veja os projetos publicados do abaixo:
 
-* **Análise exploratória do AirBnb da cidade de Porto/Portugal:** 
+* **Análise exploratória do AirBnb da cidade de Porto/Portugal:** https://bit.ly/3IpzB9r 
 
 
 ---
