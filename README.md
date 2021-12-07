@@ -15,7 +15,7 @@
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja os tutoriais publicados do abaixo:
 
 * **Análise exploratória do AirBnb da cidade de Porto/Portugal:** 
 
