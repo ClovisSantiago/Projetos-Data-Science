@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1542903660-eedba2cda473?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8ZGF0YXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"height=230px width=980px >
+  <img src="https://images.unsplash.com/photo-1542903660-eedba2cda473?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8ZGF0YXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"height=230px width=1000px >
 </p>
 
 # Clóvis Santiago
