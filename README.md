@@ -9,7 +9,7 @@
 <sub>*Analista e amante de Business inteligence e estudante de data science*</sub>
 
 
-**Background in:** Power BI, DAX, Power Query, SQL, Python e Machine Learning.
+**Background in:** Power BI, DAX, Power Query, SQL e Python.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/clovis-santiago/)
